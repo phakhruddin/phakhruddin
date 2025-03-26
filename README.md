@@ -42,6 +42,7 @@ Outside of DevOps, I enjoy building delightful **mobile apps** in my free time.
 
 ---
 
+<!-- This section is under development
 ## 📊 GitHub Stats & Streaks
 
 ![Deen's GitHub Stats](https://github-readme-stats.vercel.app/api?phakhruddin=phakhruddin&show_icons=true&theme=radical)
@@ -49,6 +50,7 @@ Outside of DevOps, I enjoy building delightful **mobile apps** in my free time.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phakhruddin&theme=radical)
 
 ---
+--->
 
 ## 🤝 Let’s Connect
 
