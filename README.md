@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Deen Abdullah
+# 👋 Hi, I'm Deen
 
 🚀 **Cloud Infrastructure & DevOps Engineer by Profession**  
 📱 **iOS & Android Developer by Passion**  
