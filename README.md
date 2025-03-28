@@ -27,7 +27,7 @@ I specialize in architecting, building, and managing scalable, secure, and highl
 Outside of DevOps, I enjoy building delightful **mobile apps** in my free time.
 
 - 📲 **iOS & Android hobbyist**  
-- 🧪 Experimenting with **React Native**, **Swift**, and **Flutter**  
+- 🧪 Experimenting with **Titanium/JavaScript**, **Swift**, and **Kotlin**  
 - 🚀 I build small tools, utilities, and productivity apps — mostly to scratch my own itch  
 - 🔄 Interested in exploring how mobile clients can interact with cloud-native backends via APIs and serverless
 
