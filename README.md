@@ -1,5 +1,3 @@
-# 👋 
-
 🚀 **Cloud Infrastructure & DevOps Engineer by Profession**  
 📱 **iOS & Android Developer by Passion**  
 💡 Automating cloud. Building resilient systems. Exploring mobile innovation.
