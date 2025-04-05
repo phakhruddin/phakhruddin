@@ -33,6 +33,7 @@ Outside of DevOps, I enjoy building delightful **mobile apps** in my free time.
 
 ## 📌 Recent Highlights
 
+- 🐝 Exploring eBpf - thoughts they are game changer where possibility is endless
 - 🧱 Designed and deployed Splunk Enterprise on AWS (1.4PB/day logs) with **zero downtime**
 - 📦 Created a custom observability sidecar used in **1M+ Kubernetes pods**
 - 💸 Significantly reduced AWS infrastructure cost through optimization
