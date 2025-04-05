@@ -16,7 +16,8 @@ I specialize in architecting, building, and managing scalable, secure, and highl
 - 🔐 **HA/DR**: Veritas clustering, SAN replication, zero-downtime design
 - 🛠 **Languages**: Python, Bash, Javascript, Golang (learning), Swift (learning).
 
-🧩 Currently managing infrastructure for a large-scale observability platform, processing over **1.4PB logs per day**, and designing automated workflows for cost, compliance, and reliability at scale.
+🧩 Previously managed infrastructure for a large-scale observability platform, processing over **1.4PB of logs daily**, with a focus on automating workflows to drive cost optimization, ensure compliance, and maintain reliability at scale.
+🐝 Currently exploring eBPF to deepen my knowledge of low-level observability, performance tracing, and kernel-level telemetry in modern cloud-native environments. 
 
 ---
 
