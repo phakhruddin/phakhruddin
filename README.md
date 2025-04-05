@@ -8,7 +8,7 @@
 
 I specialize in architecting, building, and managing scalable, secure, and highly available **cloud-native infrastructure**—with over **20 years of experience** across **Linux/Unix systems**, **AWS**, **Kubernetes**, and **DevOps automation**.
 
-- ☁️ **Cloud**: AWS (primary), GCP, Azure (learning)
+- ☁️ **Cloud**: AWS (primary), GCP, Azure (secondary)
 - 🧱 **IaC**: Terraform, CloudFormation, CDK
 - 📦 **Containers & K8s**: Sidecar patterns, observability, scale to 1M+ pods
 - ⚙️ **CI/CD & GitOps**: Jenkins, ArgoCD, GitHub Actions, GitLab
