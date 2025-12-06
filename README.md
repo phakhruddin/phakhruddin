@@ -18,7 +18,7 @@ I specialize in architecting, building, and managing scalable, secure, and highl
 
 🧩 Previously managed infrastructure for a large-scale observability platform, processing over 1.4PB of logs daily, with a focus on automating workflows to drive cost optimization, ensure compliance, and maintain reliability at scale. 
 🐝 Currently exploring eBPF to deepen my knowledge of low-level observability, performance tracing, and kernel-level telemetry in modern cloud-native environments. 
-🚀 Now helping orchestrate enterprise systems that support the launch and operation of next-generation satellites, building resilient ERP and manufacturing platforms in the cloud to keep complex supply chains and production lifecycles in sync with orbital ambitions.
+🚀 Now helping orchestrate enterprise systems that support the launch and operation of next-generation LEO satellites, building resilient ERP and manufacturing platforms in the cloud to keep complex supply chains and production lifecycles in sync with orbital ambitions.
 
 ---
 
