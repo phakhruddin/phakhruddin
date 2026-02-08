@@ -10,15 +10,16 @@ I specialize in architecting, building, and managing scalable, secure, and highl
 
 - ☁️ **Cloud**: AWS (primary), GCP, Azure (secondary) [ GovCloud & Commercial ]
 - 🧱 **IaC**: Terraform, CloudFormation, CDK
-- 📦 **Containers & K8s**: Sidecar patterns, observability, scale to 1M+ pods
+- 📦 **Containers & K8s**: Sidecar patterns, service-to-service security, deep observability, operating at **1M+ pod scale**
 - ⚙️ **CI/CD & GitOps**: Jenkins, ArgoCD, GitHub Actions, GitLab
 - 🔭 **Observability**: Splunk, Prometheus, ELS Stack, Wavefront dashboards, alerts, and integrations with K8s
 - 🔐 **HA/DR**: Veritas clustering, SAN replication, zero-downtime design
+- 🔐 **Zero Trust & Identity Security**: PKI (X.509), mTLS, JWT-based authorization, least-privilege, FedRAMP, FIPS constraint.
 - 🛠 **Languages**: Python, Bash, Javascript, Golang (learning), Swift (learning).
 
-🧩 Previously managed infrastructure for a large-scale observability platform, processing over 1.4PB of logs daily, with a focus on automating workflows to drive cost optimization, ensure compliance, and maintain reliability at scale. 
+🧩 Previously managed infrastructure for a large-scale observability platform, processing peta-byte scale of logs daily, with a focus on automating workflows to drive cost optimization, ensure compliance, and maintain reliability at scale. 
 🐝 Currently exploring eBPF to deepen my knowledge of low-level observability, performance tracing, and kernel-level telemetry in modern cloud-native environments. 
-🚀 Now helping orchestrate enterprise systems that support the launch and operation of next-generation LEO satellites, building resilient ERP and manufacturing platforms in the cloud to keep complex supply chains and production lifecycles in sync with orbital ambitions.
+🚀 Now helping orchestrate enterprise systems that support the manufacturing, launch and operation of next-generation LEO satellites, building resilient ERP and manufacturing platforms in the cloud to keep complex supply chains and production lifecycles in sync with orbital ambitions.
 
 ---
 
